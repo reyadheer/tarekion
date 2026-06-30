@@ -5,7 +5,7 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-export const WHATSAPP_NUMBER = '966500000000';
+export const WHATSAPP_NUMBER = '+966552055837';
 export const PHONE_NUMBER = '+966-50-000-0000';
 export const EMAIL = 'info@tarekion.com';
 export const SITE_URL = 'https://www.tarekion.com';
