@@ -1,0 +1,162 @@
+[
+  {
+    "id": "jcb-3cx",
+    "slug": "jcb-3cx",
+    "name": "JCB 3CX Backhoe Loader",
+    "nameAr": "جي سي بي 3CX",
+    "category": "JCB",
+    "categoryAr": "جي سي بي",
+    "image": "/images/equipment/jcb.svg",
+    "description": "The JCB 3CX is a versatile backhoe loader perfect for excavation, loading, and lifting tasks on any construction site.",
+    "descriptionAr": "جهاز متعدد الاستخدامات مثالي للحفر والتحميل والرفع في مواقع البناء",
+    "specs": {
+      "engine": "74 HP Diesel",
+      "maxDigDepth": "5.9m",
+      "loadCapacity": "1.0 m³",
+      "weight": "8,500 kg"
+    },
+    "available": true,
+    "tags": ["excavation", "loading", "construction"],
+    "priceNote": "Contact for pricing"
+  },
+  {
+    "id": "bobcat-s650",
+    "slug": "bobcat-s650",
+    "name": "Bobcat S650 Skid Steer",
+    "nameAr": "بوبكات S650",
+    "category": "Bobcat",
+    "categoryAr": "بوبكات",
+    "image": "/images/equipment/bobcat.svg",
+    "description": "The Bobcat S650 skid-steer loader excels in tight spaces, ideal for landscaping, demolition, and material handling.",
+    "descriptionAr": "بوبكات مثالي للأعمال في المساحات الضيقة، الحدائق، والهدم",
+    "specs": {
+      "engine": "74 HP",
+      "ratedLoad": "930 kg",
+      "operatingWeight": "3,400 kg",
+      "travelSpeed": "12.1 km/h"
+    },
+    "available": true,
+    "tags": ["landscaping", "demolition", "material-handling"],
+    "priceNote": "Contact for pricing"
+  },
+  {
+    "id": "excavator-320d",
+    "slug": "excavator-320d",
+    "name": "CAT 320D Excavator",
+    "nameAr": "حفار CAT 320D",
+    "category": "Excavator",
+    "categoryAr": "حفار",
+    "image": "/images/equipment/excavator.svg",
+    "description": "The CAT 320D hydraulic excavator delivers powerful digging force and precision for large excavation and earthmoving projects.",
+    "descriptionAr": "حفار هيدروليكي قوي لمشاريع الحفر وتحريك التربة الكبيرة",
+    "specs": {
+      "engine": "138 HP",
+      "maxDigDepth": "6.7m",
+      "bucketCapacity": "1.19 m³",
+      "operatingWeight": "20,000 kg"
+    },
+    "available": true,
+    "tags": ["excavation", "earthmoving", "large-projects"],
+    "priceNote": "Contact for pricing"
+  },
+  {
+    "id": "bulldozer-d6",
+    "slug": "bulldozer-d6",
+    "name": "CAT D6 Bulldozer",
+    "nameAr": "بلدوزر CAT D6",
+    "category": "Bulldozer",
+    "categoryAr": "بلدوزر",
+    "image": "/images/equipment/bulldozer.svg",
+    "description": "The CAT D6 bulldozer provides exceptional pushing power for land clearing, grading, and heavy earthmoving operations.",
+    "descriptionAr": "بلدوزر قوي لتسوية الأراضي والحفر وعمليات تحريك التربة الثقيلة",
+    "specs": {
+      "engine": "205 HP",
+      "bladeCapacity": "4.5 m³",
+      "operatingWeight": "22,000 kg",
+      "groundPressure": "46 kPa"
+    },
+    "available": true,
+    "tags": ["grading", "land-clearing", "earthmoving"],
+    "priceNote": "Contact for pricing"
+  },
+  {
+    "id": "wheel-loader-950g",
+    "slug": "wheel-loader-950g",
+    "name": "CAT 950G Wheel Loader",
+    "nameAr": "شيول CAT 950G",
+    "category": "Wheel Loader",
+    "categoryAr": "شيول",
+    "image": "/images/equipment/wheel-loader.svg",
+    "description": "The CAT 950G wheel loader offers superior loading performance, fuel efficiency, and comfort for material handling projects.",
+    "descriptionAr": "شيول عالي الكفاءة لعمليات الشحن ونقل المواد في مشاريع البناء",
+    "specs": {
+      "engine": "187 HP",
+      "bucketCapacity": "2.9 m³",
+      "operatingWeight": "17,200 kg",
+      "travelSpeed": "37.4 km/h"
+    },
+    "available": false,
+    "tags": ["loading", "material-handling", "efficiency"],
+    "priceNote": "Contact for pricing"
+  },
+  {
+    "id": "lowbed-trailer-60t",
+    "slug": "lowbed-trailer-60t",
+    "name": "Lowbed Trailer 60 Ton",
+    "nameAr": "مقطورة لوبيد 60 طن",
+    "category": "Lowbed Trailer",
+    "categoryAr": "لوبيد",
+    "image": "/images/equipment/lowbed.svg",
+    "description": "Heavy-duty 60-ton lowbed trailer for transporting large construction equipment, machinery, and oversized loads safely.",
+    "descriptionAr": "مقطورة لوبيد ثقيلة لنقل المعدات الثقيلة والآليات الكبيرة بأمان",
+    "specs": {
+      "capacity": "60 Tons",
+      "deckLength": "12.5m",
+      "deckWidth": "3.0m",
+      "deckHeight": "0.85m"
+    },
+    "available": true,
+    "tags": ["transport", "heavy-load", "machinery"],
+    "priceNote": "Contact for pricing"
+  },
+  {
+    "id": "motor-grader-140k",
+    "slug": "motor-grader-140k",
+    "name": "CAT 140K Motor Grader",
+    "nameAr": "ممهدة CAT 140K",
+    "category": "Grader",
+    "categoryAr": "ممهدة",
+    "image": "/images/equipment/grader.svg",
+    "description": "The CAT 140K motor grader delivers precision grading and road maintenance with excellent visibility and control.",
+    "descriptionAr": "ممهدة دقيقة لأعمال التسوية وصيانة الطرق بكفاءة عالية",
+    "specs": {
+      "engine": "166 HP",
+      "bladeWidth": "3.7m",
+      "operatingWeight": "15,900 kg",
+      "maxSpeed": "42 km/h"
+    },
+    "available": true,
+    "tags": ["grading", "road-maintenance", "leveling"],
+    "priceNote": "Contact for pricing"
+  },
+  {
+    "id": "compactor-cs533",
+    "slug": "compactor-cs533",
+    "name": "CAT CS533 Vibratory Compactor",
+    "nameAr": "مضغوط CAT CS533",
+    "category": "Compactor",
+    "categoryAr": "مضغوط",
+    "image": "/images/equipment/compactor.svg",
+    "description": "The CAT CS533 vibratory soil compactor provides superior compaction results for road construction and earthwork projects.",
+    "descriptionAr": "مضغوط هزازي لنتائج ضغط ممتازة في مشاريع الطرق والأعمال الترابية",
+    "specs": {
+      "engine": "118 HP",
+      "drumWidth": "2.13m",
+      "operatingWeight": "10,600 kg",
+      "compactionForce": "193 kN"
+    },
+    "available": true,
+    "tags": ["compaction", "road-construction", "earthwork"],
+    "priceNote": "Contact for pricing"
+  }
+]

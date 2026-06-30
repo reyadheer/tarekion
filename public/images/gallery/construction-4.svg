@@ -1,0 +1,41 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1f2937;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1f293788;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="overlay" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1f2937;stop-opacity:0" />
+      <stop offset="100%" style="stop-color:#1f2937;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <!-- Construction site shapes -->
+  <!-- Ground -->
+  <rect x="0" y="400" width="800" height="200" fill="#F5C518" opacity="0.06"/>
+  <!-- Buildings/cranes -->
+  <rect x="50" y="200" width="80" height="200" fill="#F5C518" opacity="0.08"/>
+  <rect x="150" y="280" width="60" height="120" fill="#F5C518" opacity="0.06"/>
+  <rect x="620" y="150" width="90" height="250" fill="#F5C518" opacity="0.08"/>
+  <rect x="720" y="250" width="50" height="150" fill="#F5C518" opacity="0.06"/>
+  <!-- Crane arm -->
+  <line x1="90" y1="200" x2="90" y2="80" stroke="#F5C518" stroke-width="6" opacity="0.15"/>
+  <line x1="90" y1="85" x2="280" y2="85" stroke="#F5C518" stroke-width="4" opacity="0.15"/>
+  <line x1="200" y1="85" x2="200" y2="180" stroke="#F5C518" stroke-width="2" opacity="0.12"/>
+  <!-- Equipment silhouettes on ground -->
+  <ellipse cx="300" cy="420" rx="90" ry="25" fill="#F5C518" opacity="0.1"/>
+  <rect x="240" y="370" width="120" height="55" rx="8" fill="#F5C518" opacity="0.1"/>
+  <circle cx="265" cy="425" r="22" fill="#F5C518" opacity="0.12"/>
+  <circle cx="335" cy="425" r="22" fill="#F5C518" opacity="0.12"/>
+  <ellipse cx="520" cy="420" rx="80" ry="22" fill="#F5C518" opacity="0.08"/>
+  <rect x="460" y="375" width="130" height="50" rx="6" fill="#F5C518" opacity="0.08"/>
+  <!-- Overlay -->
+  <rect width="800" height="600" fill="url(#overlay)"/>
+  <!-- Tag -->
+  <rect x="30" y="30" width="180" height="44" rx="10" fill="#F5C518" opacity="0.9"/>
+  <text x="120" y="48" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="11" fill="#1f2937" letter-spacing="2">TAREKION</text>
+  <text x="120" y="65" text-anchor="middle" font-family="Arial,sans-serif" font-weight="600" font-size="9" fill="#1f2937" opacity="0.7" letter-spacing="1">PROJECT GALLERY</text>
+  <!-- Caption -->
+  <text x="400" y="510" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="38" fill="#F5C518" opacity="0.9">Road Construction</text>
+  <text x="400" y="550" text-anchor="middle" font-family="Arial,sans-serif" font-weight="500" font-size="16" fill="#F5C518" opacity="0.5">Mecca 2024</text>
+</svg>
